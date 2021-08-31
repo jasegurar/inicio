@@ -1,0 +1,24 @@
+type: code
+user-name: ludsrill
+stage: immersion
+complexity: 8.95
+others:
+  in: 4
+  out: 14
+  totals: 18
+score:
+  initial: 111.26
+  final: 120.21
+  progress: 8.95
+global-rank:
+  initial: 4285
+  final: 3998
+  progress: 287
+national-rank:
+  intial: 221
+  final: 206
+  progress: 15
+effort: 11.0
+productivity: 0.814
+date: '2021-04-16 09:41:52Z'
+path: ludsrill.elv
